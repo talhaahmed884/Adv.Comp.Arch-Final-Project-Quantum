@@ -1,0 +1,9 @@
+# Quantum Sudoku Solver — pip requirements
+# Use within the activated conda environment:
+#   pip install -r requirements.txt
+
+qiskit>=1.1
+qiskit-aer>=0.14
+pylatexenc>=2.10
+matplotlib
+IPython
